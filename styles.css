@@ -1,0 +1,52 @@
+/* Samurai Anime Database - Dark Theme */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0D021F;
+    color: #E0D4FC;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #200133;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #9C51E0;
+}
+
+#searchBox {
+    margin-top: 10px;
+    padding: 10px;
+    width: 80%;
+    max-width: 400px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#anime-container {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.anime-card {
+    background: #180122;
+    border: 1px solid #9C51E0;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.anime-card h2 {
+    color: #ffffff;
+}
+
+.anime-card p {
+    font-size: 0.9rem;
+}
