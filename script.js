@@ -8,6 +8,22 @@ const animeDatabase = {
         rating: 8,
         notes: "Waiting for season 2!"
     },
+    "Kaifuku Jutsushi no Yarinaoshi - Season 1": {
+        episodesWatched: 4,
+        totalEpisodes: 12,
+        status: "Watching",
+        genre: "",
+        rating: 5,
+        notes: "NA"
+    },
+    "Solo Leveling Season 2: Arise from the Shadow": {
+        episodesWatched: 7,
+        totalEpisodes: 7,
+        status: "Watching",
+        genre: "",
+        rating: 5,
+        notes: "NA"
+    },
 };
 
 function searchAnime() {
