@@ -1,12 +1,12 @@
 // Samurai Anime Database
 const animeDatabase = {
-    "Attack on Titan": {
-        episodesWatched: 75,
-        totalEpisodes: 87,
-        status: "Watching",
-        genre: "Action, Drama, Fantasy",
-        rating: 9.5,
-        notes: "Waiting for the Final Season Part 3!"
+    "Kimi wa Meido-sama - Season 1": {
+        episodesWatched: 12,
+        totalEpisodes: 12,
+        status: "Completed",
+        genre: "",
+        rating: 8,
+        notes: "Waiting for season 2!"
     },
     "Naruto": {
         episodesWatched: 220,
