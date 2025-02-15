@@ -8,22 +8,6 @@ const animeDatabase = {
         rating: 8,
         notes: "Waiting for season 2!"
     },
-    "Naruto": {
-        episodesWatched: 220,
-        totalEpisodes: 220,
-        status: "Completed",
-        genre: "Action, Adventure",
-        rating: 9.0,
-        notes: "Classic! But didn't watch all fillers."
-    },
-    "One Piece": {
-        episodesWatched: 1050,
-        totalEpisodes: 1100, 
-        status: "Watching",
-        genre: "Adventure, Comedy",
-        rating: 9.8,
-        notes: "Still catching up!"
-    }
 };
 
 function searchAnime() {
