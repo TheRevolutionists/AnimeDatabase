@@ -9,11 +9,11 @@ const animeDatabase = {
         notes: "Waiting for season 2!"
     },
     "Kaifuku Jutsushi no Yarinaoshi - Season 1": {
-        episodesWatched: 4,
+        episodesWatched: 12,
         totalEpisodes: 12,
-        status: "Watching",
+        status: "Completed",
         genre: "",
-        rating: 5,
+        rating: 8,
         notes: "NA"
     },
     "Solo Leveling Season 2: Arise from the Shadow": {
@@ -21,7 +21,15 @@ const animeDatabase = {
         totalEpisodes: 7,
         status: "Watching",
         genre: "",
-        rating: 5,
+        rating: 10,
+        notes: "NA"
+    },
+    "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka": {
+        episodesWatched: 13,
+        totalEpisodes: 13,
+        status: "Completed",
+        genre: "",
+        rating: 9,
         notes: "NA"
     },
 };
